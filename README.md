@@ -10,6 +10,12 @@ Muhammad Hanif, a humorous Software Engineer who loves comics and blogs.
 - 🤝 I'm open to collaborating on Blog App
 - ⚡ I actually love to eat
 
+  <a href="https://www.github.com/mhaniflab" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mhaniflab?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/mhanifdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mhanifdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/mhaniflab" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/mhaniflab?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 ### Socials
 
 <p align="left">
