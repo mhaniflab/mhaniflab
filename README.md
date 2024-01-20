@@ -81,17 +81,6 @@ Muhammad Hanif, a humorous Software Engineer who loves comics and blogs.
 </p>
 
 
-### Socials
-
-<p align="left">
-  <a href="https://www.behance.com/mhdhanif" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.codepen.io/mhdhanif" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
-  </a>
-  <!-- Add the rest of your social media links following the same format -->
-</p>
 ### Badges
 
 <b>My GitHub Stats</b>
